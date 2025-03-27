@@ -13,7 +13,7 @@ This project is a Flask-based web application that finds the shortest path betwe
 - **HTML/CSS** (for UI)
 - **JavaScript** (for API interaction)
 
-##📌 Installation
+# 📌 Installation
 1. Clone this repository:
    ```sh
    git clone https://github.com/your-username/shortest-path-finder.git
